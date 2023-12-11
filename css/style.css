@@ -145,6 +145,7 @@ banner
 @media (max-width: 1024px){
   #banner{
     background-attachment: scroll;
+    background-position: center;
   }
 }
 .bg-color{
